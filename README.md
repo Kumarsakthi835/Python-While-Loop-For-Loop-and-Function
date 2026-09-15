@@ -203,25 +203,6 @@ The program accepts weight in kilograms and height in meters and calculates the 
 * **Google Colab**
 * **Jupyter Notebook Environment**
 
----
-
-# 📁 Project Structure
-
-```text
-Python_Assignment_3/
-│
-├── Python_Assignment_3.ipynb
-│
-├── README.md
-│
-└── Screenshots/
-    ├── Task_1_Number_Guessing_Game_Final.png
-    ├── Task_2_Multiplication_Table_Code_Output.png
-    └── Task_3_BMI_Calculator_Code_Output.png
-```
-
----
-
 # 📚 Learning Outcomes
 
 Through this assignment, the following Python concepts were practiced:
