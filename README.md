@@ -262,4 +262,4 @@ Overall, the assignment improved understanding of **iteration, control flow, fun
 
 *Kumar S
 
-*Data Analytics (DA)
+*Data Analyst
