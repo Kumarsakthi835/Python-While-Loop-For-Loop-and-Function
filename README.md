@@ -72,7 +72,7 @@ The program displays feedback such as:
 <img width="494" height="261" alt="image" src="https://github.com/user-attachments/assets/4d15f27b-7f3f-4a94-b358-66dcd7529717" />
 <img width="565" height="259" alt="image" src="https://github.com/user-attachments/assets/4e4bc12b-ee53-4a3a-99a3-837dad77b563" />
 
-[Task 1 Number Guessing Game](Screenshots/Task_1_Number_Guessing_Game_Final.png)
+[Task 1 Number Guessing Game Output]
 
 <img width="485" height="157" alt="image" src="https://github.com/user-attachments/assets/ed230106-a595-4bf6-9784-443e585e8795" />
 
@@ -122,12 +122,12 @@ The multiplication table generated was:
 | 2 × 9          |     18 |
 | 2 × 10         |     20 |
 
-## 📸 Screenshot
+**Screenshot:** `Task_2_Multiplication_Table_Code_Output
 
 <img width="593" height="267" alt="image" src="https://github.com/user-attachments/assets/6423eb40-3203-4451-9465-b386965f20b8" />
 
 
-**Screenshot:** `Task_2_Multiplication_Table_Code_Output.png`
+
 
 ---
 
@@ -169,12 +169,12 @@ The program accepts weight in kilograms and height in meters and calculates the 
 
 **Your BMI is: 22.86**
 
-## 📸 Screenshot
+**Screenshot:** `Task_3_BMI_Calculator_Code_Output
 
 <img width="382" height="269" alt="image" src="https://github.com/user-attachments/assets/ff57c2b5-f49a-4fd4-9e60-d08f929e50d5" />
 
 
-**Screenshot:** `Task_3_BMI_Calculator_Code_Output.png`
+
 
 ---
 
